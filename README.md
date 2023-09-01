@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LEMON-ORANGE-DEV
+- 👋 Hi, I’m Danley
 - 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...HTML and CSS 'I'm a beginner'
+- 🌱 I’m currently learning ...Full stack development
 - 💞️ I’m looking to collaborate on ...Any software Development
 - 📫 How to reach me ...""
 
